@@ -1,0 +1,39 @@
+button.button.button-primary.wfts_save_metabox_product {
+    margin-top: 10px;
+    margin-left: 4px;
+}
+
+.wfst-div {
+	min-height: 40px;
+	height:auto !important;
+}
+
+.wfst-meta-checkbox,.wfst-meta-promote-thankyou-checkbox,.wfst-meta-promote-email-checkbox,.wfst-meta-promote-coupon-checkbox {
+	margin-left: 20px !important;
+}
+span.wfst-view-product-link {
+    float: right;
+}
+
+.wfst-div textarea {
+    margin-top: 30px !important;
+    margin-left: 18px !important;
+    height:auto !important;
+}
+
+input.wfst_special_price_number_input {
+	margin-left:18px !important;
+	margin-top:0px !important;
+}
+
+.wfst-div tr {
+	margin-bottom: 10px;
+}
+
+table.table.widefat.wfst-table-li {
+    margin-top: 40px;
+}
+
+.wfst_select_coupon {
+    margin-left:10px;
+}

@@ -1,0 +1,125 @@
+.wfst_frequently_sold > ul > li > span > div img,.wfst_frequently_sold > ul > li > span > a > div img {
+   max-width:80px;
+   max-height:80px;
+   border: solid 6px white !important;
+   outline: solid 2px #d5d5d5 !important;
+   width: 80px;
+   height: 80px;
+}
+
+.wfst_frequently_sold > ul > li {
+    display:inline-block;
+    margin-bottom: -30px;
+    margin-right: 10px;
+
+}
+
+
+.wfst_frequently_sold > ul > li.wfst_plus_li .wfst_plus{
+    font-size:22px;
+    margin-top:20px;
+    margin-bottom:20px;
+}
+
+.wfst_frequently_sold > ul > li.wfst_total_li {
+     margin-bottom: -60px;
+}
+
+.wfst_frequently_sold > ul.wfst-checkbox-ul {
+    margin-top:40px;
+}
+
+.wfst_frequently_sold > ul.wfst-checkbox-ul > li {
+    margin-right: 10px;
+    display: block;
+    margin-top: 30px;
+}
+
+.wfst_frequently_sold > ul.wfst-checkbox-ul > li .wfts-strong {
+    font-weight:bold;
+}
+
+.wfst-promote-ul {
+    list-style: none;
+    margin-left:0px;
+    border: 1px dotted #c3c0c0;
+    padding: 12px;
+}
+
+.wfst-promote-ul > li .wfst-strong {
+  font-weight:bold;
+}
+
+.wfst-promote-ul > li > .wfst-checkbox-text-checkout-page {
+  margin-left: 10px;
+}
+
+.wfst-uppper-li-div-checkout-page > div > img {
+   max-width:80px;
+   max-height:80px;
+   border: solid 6px white !important;
+   outline: solid 2px #d5d5d5 !important;
+   width: 80px;
+   height: 80px;
+}
+
+li.wfst-uppper-li-div-checkout-page {
+    min-height: 86px;
+    margin-top: 20px !important;
+}
+
+.wfst-promote-ul > li {
+  margin-top:3px;
+}
+
+.wfst-promote-ul span.wfst_promote_product_text {
+    float: right;
+    width: 70%;
+}
+
+.wfst-promote-ul .wfst-first-li-image-div {
+    width: 25%;
+    float: left;
+}
+
+.wfst-strong{
+  font-weight:bold;
+}
+
+.wfst-coupon {
+  border: 5px dotted #bbb;
+  width: 80%;
+  border-radius: 15px;
+  margin: 0 auto;
+  max-width: 600px;
+}
+.wfst-promo {
+  background: #ccc;
+  padding: 3px;
+}
+.wfst-expire {
+  color: red;
+}
+
+.wfst-cpoupon-container{
+  padding: 2px 16px;
+  background-color: #f1f1f1;
+}
+
+.wfst-coupon-container-head {
+  background-color:white; 
+  margin-top:5px;
+  
+}
+
+.wfst-coupon-heading-text {
+  font-weight:bold;
+  margin-left:30%;
+  margin-bottom:20px;
+  font-size:24px;
+}
+
+p.wfst_coupon_description {
+    margin-top: 20px;
+}
+
